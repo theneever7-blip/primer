@@ -234,9 +234,10 @@ Before deploying:
 If you find a security vulnerability:
 
 1. **Don't open a public issue**
-2. **Email security contact** (see SECURITY.md)
+2. **Report it privately** by following the [Security Policy](https://github.com/wharton-generative-ai-labs/primer/blob/main/SECURITY.md)
 3. **Provide details**: Steps to reproduce, impact
-4. **Allow time** for fix before disclosure
+
+Primer is a research project released "as-is" and is not actively maintained. We do not commit to acknowledging, responding to, or resolving reports within any particular time frame.
 
 ## Next Steps
 
