@@ -10,17 +10,11 @@ Primer is an experimental platform for creating interactive AI experiences that 
 
 ### Reporting Security Vulnerabilities
 
-If you discover a security vulnerability, please **do NOT** create a public GitHub issue.
+If you believe you have found a security vulnerability, please do NOT create a public GitHub issue.
 
-**Instead, please report it privately to: genailab@wharton.upenn.edu**
+Instead, report it privately by following our Security Policy, which lists the reporting address and the details to include.
 
-Include in your report:
-- Description of the vulnerability
-- Steps to reproduce the issue
-- Potential impact assessment
-- Any suggested fixes (optional)
-
-We will acknowledge receipt within 48 hours and work with you to address the issue responsibly.
+Please note that Primer is a research project released "as-is" and is not actively maintained. As described in the Security Policy, we do not commit to acknowledging, responding to, or resolving reports within any particular time frame.
 
 ### Reporting Issues
 
@@ -84,7 +78,7 @@ If you find a bug or have a feature request, please open an issue on GitHub. Whe
 2. Update documentation if you've changed functionality
 3. Add tests if you've added new features
 4. Ensure all tests pass
-5. Get approval from maintainers before merging
+5. Pull requests are reviewed at the maintainers' discretion. Because Primer is not actively maintained, they may or may not be reviewed or merged.
 
 ### Research Context
 
@@ -93,6 +87,8 @@ Since this is a research project, contributions that align with the project's re
 ## Contact
 
 For questions, security issues, code of conduct concerns, or other inquiries, contact the Wharton Generative AI Labs team at **genailab@wharton.upenn.edu**.
+
+To report a security vulnerability, please follow the Security Policy instead.
 
 ## License
 
