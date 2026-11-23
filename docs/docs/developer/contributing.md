@@ -118,13 +118,11 @@ npm run dev
    - Breaking changes noted
 
 3. **Review Process**
-   - Maintainers will review
-   - Address feedback
-   - Keep discussions constructive
-   - Be patient
+   - Primer is not actively maintained, so pull requests are reviewed at the maintainers' discretion
+   - Pull requests may or may not be reviewed or merged
+   - If you receive feedback, address it and keep discussions constructive
 
-4. **After Approval**
-   - Maintainers will merge
+4. **If Your PR Is Merged**
    - Delete your branch
    - Celebrate! 🎉
 
@@ -195,9 +193,13 @@ Contributions aligned with these goals are especially welcome.
 - Check existing documentation
 - Review closed issues and PRs
 
+## Reporting Security Vulnerabilities
+
+Please don't open a public issue for security vulnerabilities. Report them privately by following the Security Policy.
+
 ## License
 
-By contributing, you agree your contributions will be licensed under the Mozilla Public License 2.0.
+By contributing to Primer, you agree that your contributions will be licensed under the MIT License.
 
 ## Code of Conduct
 
