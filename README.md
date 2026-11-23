@@ -218,7 +218,9 @@ We gratefully acknowledge design and code contributions from [Lincoln Loop](http
 
 ## Contact
 
-For questions, security issues, or other inquiries, contact the Wharton Generative AI Labs team at **genailab@wharton.upenn.edu**.
+For questions or other inquiries, contact the Wharton Generative AI Labs team at **genailab@wharton.upenn.edu**.
+
+To report a security vulnerability, please follow the [Security Policy](SECURITY.md).
 
 ## Licenses
 This project is licensed under the MIT License. See [LICENSE](LICENSE).  
