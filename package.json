@@ -65,7 +65,7 @@
     "framer-motion": "^12.5.0",
     "ink": "^6",
     "lucide-react": "^0.475.0",
-    "mammoth": "^1.9.0",
+    "mammoth": "^1.13.0",
     "mermaid": "^11.12.1",
     "next": "^15.1.6",
     "next-auth": "^4.24.11",
